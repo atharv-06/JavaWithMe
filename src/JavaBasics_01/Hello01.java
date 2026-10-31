@@ -1,6 +1,6 @@
 package JavaBasics_01;
 
-public class Hello {								//defines a class name is Hello
+public class Hello01 {								//defines a class name is Hello
 	public static void main(String args[]) {		//This is main method entry point of any java program
 		System.out.println("Hello Java");			//output statment print in console "Hello Java"
 	}
