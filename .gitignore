@@ -7,12 +7,3 @@ bin/
 
 # Build files
 target/
-# Compiled Java files
-bin/
-*.class
-
-# Eclipse workspace
-.metadata/
-
-# Build files
-target/
