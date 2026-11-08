@@ -3,7 +3,7 @@
 
 package JavaBasics_01;
 
-public class Operators {
+public class Operators04 {
 	public static void main(String args[]) {
 		/*1. Arithmetic Operators(+, -, *, /, %)
 			Arithmetic Operators are used to perform arithmetic operations on primitive numeric data types such as int, float, and double.*/

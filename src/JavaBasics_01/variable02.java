@@ -11,7 +11,7 @@
 
 package JavaBasics_01;
 
-public class variable {
+public class variable02 {
 	public static void main(String args[]) {
 		// Declaring and initializing variables
         

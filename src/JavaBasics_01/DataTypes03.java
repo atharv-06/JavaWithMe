@@ -14,7 +14,7 @@
 
 package JavaBasics_01;
 
-public class DataTypes {
+public class DataTypes03 {
 	public static void main(String args[]) {
 		/*1. Primitive Data Types: Primitive data types store simple values directly in memory. Java provides eight primitive data types, each with a fixed size and range, which are summarized below:*/
 		
